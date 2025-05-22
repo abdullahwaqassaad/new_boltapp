@@ -1,3 +1,3 @@
-git add streamlit_app.py
-git commit -m "Move streamlit_app.py to root directory"
-git push
+import streamlit as st
+
+st.title("My Bolt App")
